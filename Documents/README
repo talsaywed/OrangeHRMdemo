@@ -20,8 +20,8 @@ It reflects a full QA workflow aligned with real industry practices.
 │ ├── videos/ # Recorded test execution videos
 ├── OrangeHR_report.txt # Cypress execution report
 ├── cypress.config.js # Cypress configuration settings
-├── package.json # Node dependencies & scripts
 ├── package-lock.json
+├── package.json # Node dependencies & scripts
 
 
 --------------------------------------------------------------------
